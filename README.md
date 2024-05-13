@@ -12,5 +12,5 @@ The positions are in Astronomical Units (AU) and the velocities in AU/day.
 The procedures are as follows:
 1) Ensure a Python environment is accessible by Matlab as per instructions here:
     https://www.mathworks.com/support/search.html/answers/1750425-python-virtual-environments-with-python-interface.html?fq%5B%5D=asset_type_name:answer&page=1.
-2) Edit the date required in the python script.
+2) Edit the date required in the python script. (Ensure the Python script is in the same directory)
 3) Run the nbody Matlab script. 
