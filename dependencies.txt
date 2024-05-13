@@ -1,0 +1,4 @@
+1) Python environment
+2) astropy
+3) astroquery
+4) numpy
